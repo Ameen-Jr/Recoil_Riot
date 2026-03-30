@@ -1,0 +1,5 @@
+{
+  "name": "Recoil Riot",
+  "description": "A top-down physics action game where movement is powered entirely by weapon recoil.",
+  "requestFramePermissions": []
+}
